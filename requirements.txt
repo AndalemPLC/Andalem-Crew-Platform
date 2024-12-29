@@ -1,0 +1,15 @@
+ansi2html
+crewai==0.22.5
+crewai-tools==0.0.15
+duckduckgo-search
+langchain
+langchain-community
+langchain-core
+langchain-nvidia-ai-endpoints
+langchain-openai
+llama_index
+ollama
+openai
+python-dotenv
+streamlit
+youtube-transcript-api
